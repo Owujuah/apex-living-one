@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/apex-living-one/static/css/main.8544e6ad.css",
-    "main.js": "/apex-living-one/static/js/main.200356fe.js",
+    "main.js": "/apex-living-one/static/js/main.31922e40.js",
     "static/js/453.4331a820.chunk.js": "/apex-living-one/static/js/453.4331a820.chunk.js",
     "index.html": "/apex-living-one/index.html",
     "main.8544e6ad.css.map": "/apex-living-one/static/css/main.8544e6ad.css.map",
-    "main.200356fe.js.map": "/apex-living-one/static/js/main.200356fe.js.map",
+    "main.31922e40.js.map": "/apex-living-one/static/js/main.31922e40.js.map",
     "453.4331a820.chunk.js.map": "/apex-living-one/static/js/453.4331a820.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8544e6ad.css",
-    "static/js/main.200356fe.js"
+    "static/js/main.31922e40.js"
   ]
 }
